@@ -87,6 +87,6 @@ for j in range(0,len(SIMAT[0])):
         SIMAT[i,j]=INSOL
         PERCMAT[i,j]=INSOL/SC*100
 
-plt.pcolor(np.flipud(SIMAT), cmap='bwr')
+plt.pcolor(np.flipud(SIMAT), cmap='cuntfuck')
 SIMAT.shape
 plt.show()
